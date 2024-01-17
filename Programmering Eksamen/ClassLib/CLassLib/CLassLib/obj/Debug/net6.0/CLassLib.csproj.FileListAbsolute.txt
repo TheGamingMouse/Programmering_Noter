@@ -1,0 +1,11 @@
+C:\Users\Magnus\OneDrive\Skole\Zealand\3. Semester\Programmering Eksamen\ClassLib\CLassLib\CLassLib\bin\Debug\net6.0\CLassLib.deps.json
+C:\Users\Magnus\OneDrive\Skole\Zealand\3. Semester\Programmering Eksamen\ClassLib\CLassLib\CLassLib\bin\Debug\net6.0\CLassLib.dll
+C:\Users\Magnus\OneDrive\Skole\Zealand\3. Semester\Programmering Eksamen\ClassLib\CLassLib\CLassLib\bin\Debug\net6.0\CLassLib.pdb
+C:\Users\Magnus\OneDrive\Skole\Zealand\3. Semester\Programmering Eksamen\ClassLib\CLassLib\CLassLib\obj\Debug\net6.0\CLassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magnus\OneDrive\Skole\Zealand\3. Semester\Programmering Eksamen\ClassLib\CLassLib\CLassLib\obj\Debug\net6.0\CLassLib.AssemblyInfoInputs.cache
+C:\Users\Magnus\OneDrive\Skole\Zealand\3. Semester\Programmering Eksamen\ClassLib\CLassLib\CLassLib\obj\Debug\net6.0\CLassLib.AssemblyInfo.cs
+C:\Users\Magnus\OneDrive\Skole\Zealand\3. Semester\Programmering Eksamen\ClassLib\CLassLib\CLassLib\obj\Debug\net6.0\CLassLib.csproj.CoreCompileInputs.cache
+C:\Users\Magnus\OneDrive\Skole\Zealand\3. Semester\Programmering Eksamen\ClassLib\CLassLib\CLassLib\obj\Debug\net6.0\CLassLib.dll
+C:\Users\Magnus\OneDrive\Skole\Zealand\3. Semester\Programmering Eksamen\ClassLib\CLassLib\CLassLib\obj\Debug\net6.0\refint\CLassLib.dll
+C:\Users\Magnus\OneDrive\Skole\Zealand\3. Semester\Programmering Eksamen\ClassLib\CLassLib\CLassLib\obj\Debug\net6.0\CLassLib.pdb
+C:\Users\Magnus\OneDrive\Skole\Zealand\3. Semester\Programmering Eksamen\ClassLib\CLassLib\CLassLib\obj\Debug\net6.0\ref\CLassLib.dll
