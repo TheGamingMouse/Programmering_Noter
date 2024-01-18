@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Magnus\\OneDrive\\Skole\\Zealand\\3. Semester\\Programmering Eksamen\\API\\RestAPI\\RestAPI\\RestAPI.csproj": {}
+    "C:\\Users\\Magnus\\Documents\\GitHub\\Programmering_Noter\\Programmering Eksamen\\API\\RestAPI\\RestAPI\\RestAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Magnus\\OneDrive\\Skole\\Zealand\\3. Semester\\Programmering Eksamen\\API\\RestAPI\\RestAPI\\RestAPI.csproj": {
+    "C:\\Users\\Magnus\\Documents\\GitHub\\Programmering_Noter\\Programmering Eksamen\\API\\RestAPI\\RestAPI\\RestAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Magnus\\OneDrive\\Skole\\Zealand\\3. Semester\\Programmering Eksamen\\API\\RestAPI\\RestAPI\\RestAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Magnus\\Documents\\GitHub\\Programmering_Noter\\Programmering Eksamen\\API\\RestAPI\\RestAPI\\RestAPI.csproj",
         "projectName": "RestAPI",
-        "projectPath": "C:\\Users\\Magnus\\OneDrive\\Skole\\Zealand\\3. Semester\\Programmering Eksamen\\API\\RestAPI\\RestAPI\\RestAPI.csproj",
+        "projectPath": "C:\\Users\\Magnus\\Documents\\GitHub\\Programmering_Noter\\Programmering Eksamen\\API\\RestAPI\\RestAPI\\RestAPI.csproj",
         "packagesPath": "C:\\Users\\Magnus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Magnus\\OneDrive\\Skole\\Zealand\\3. Semester\\Programmering Eksamen\\API\\RestAPI\\RestAPI\\obj\\",
+        "outputPath": "C:\\Users\\Magnus\\Documents\\GitHub\\Programmering_Noter\\Programmering Eksamen\\API\\RestAPI\\RestAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

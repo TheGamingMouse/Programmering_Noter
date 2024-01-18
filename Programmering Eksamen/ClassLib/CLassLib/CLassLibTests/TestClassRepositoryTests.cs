@@ -20,12 +20,12 @@ namespace CLassLib.Tests
             //Adds objects to the _repo list
             _repo = new TestClassRepository();
 
-            _repo.Add(new TestClass { InStock = 1237, Title = "Test1", Year = 1996 });
-            _repo.Add(new TestClass { InStock = 1235, Title = "Test2", Year = 2007 });
-            _repo.Add(new TestClass { InStock = 4567, Title = "Test3", Year = 2003 });
-            _repo.Add(new TestClass { InStock = 2374, Title = "Test4", Year = 2018 });
-            _repo.Add(new TestClass { InStock = 4432, Title = "Test5", Year = 2012 });
-            _repo.Add(new TestClass { InStock = 2000 });
+            //_repo.Add(new TestClass { InStock = 1237, Title = "Test1", Year = 1996 });
+            //_repo.Add(new TestClass { InStock = 1235, Title = "Test2", Year = 2007 });
+            //_repo.Add(new TestClass { InStock = 4567, Title = "Test3", Year = 2003 });
+            //_repo.Add(new TestClass { InStock = 2374, Title = "Test4", Year = 2018 });
+            //_repo.Add(new TestClass { InStock = 4432, Title = "Test5", Year = 2012 });
+            //_repo.Add(new TestClass { InStock = 2000 });
         }
 
         [TestMethod()]
@@ -44,7 +44,7 @@ namespace CLassLib.Tests
             IEnumerable<TestClass> tClasses = _repo.Get();
             Assert.IsNotNull(tClasses);
 
-            Assert.AreEqual(12, tClasses.Count());
+            Assert.AreEqual(6, tClasses.Count());
             Assert.AreEqual("Test1", tClasses.First().Title);
             Assert.AreEqual("Test", tClasses.Last().Title);
         }
@@ -66,7 +66,7 @@ namespace CLassLib.Tests
             TestClass tClass = new() { InStock = 1234, Title = "AddTest", Year = 1999 };
 
             Assert.AreEqual(7, _repo.Add(tClass).Id);
-            Assert.AreEqual(13, _repo.Get().Count());
+            Assert.AreEqual(7, _repo.Get().Count());
 
             Assert.ThrowsException<ArgumentOutOfRangeException>(() => _repo.Add(invalidTestClass));
         }
@@ -76,13 +76,13 @@ namespace CLassLib.Tests
         {
             //Tests if the Update() function is correctly updating objects in the list
 
-            Assert.AreEqual(12, _repo.Get().Count());
+            Assert.AreEqual(6, _repo.Get().Count());
 
             TestClass tClass = new() { InStock = 1256, Title = "UpdateTest", Year = 2000 };
             Assert.IsNull(_repo.Update(100, tClass));
             Assert.AreEqual(1, _repo.Update(1, tClass).Id);
 
-            Assert.AreEqual(12, _repo.Get().Count());
+            Assert.AreEqual(6, _repo.Get().Count());
         }
 
         [TestMethod()]
@@ -93,7 +93,7 @@ namespace CLassLib.Tests
             Assert.IsNull(_repo.Delete(100));
 
             Assert.AreEqual(1, _repo.Delete(1).Id);
-            Assert.AreEqual(11, _repo.Get().Count());
+            Assert.AreEqual(5, _repo.Get().Count());
         }
 
         [TestMethod()]
@@ -108,10 +108,10 @@ namespace CLassLib.Tests
             switch (stockLevel)
             {
                 case 2000:
-                    Assert.AreEqual(4, _repo.GetLowStock(stockLevel).Count());
+                    Assert.AreEqual(2, _repo.GetLowStock(stockLevel).Count());
                     break;
                 case 4500:
-                    Assert.AreEqual(10, _repo.GetLowStock(stockLevel).Count());
+                    Assert.AreEqual(5, _repo.GetLowStock(stockLevel).Count());
                     break;
             }
         }

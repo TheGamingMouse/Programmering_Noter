@@ -32,3 +32,37 @@ C:\Users\Magnus\OneDrive\Skole\Zealand\3. Semester\Programmering Eksamen\API\Res
 C:\Users\Magnus\OneDrive\Skole\Zealand\3. Semester\Programmering Eksamen\API\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.pdb
 C:\Users\Magnus\OneDrive\Skole\Zealand\3. Semester\Programmering Eksamen\API\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.genruntimeconfig.cache
 C:\Users\Magnus\OneDrive\Skole\Zealand\3. Semester\Programmering Eksamen\API\RestAPI\RestAPI\obj\Debug\net6.0\ref\RestAPI.dll
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\bin\Debug\net6.0\RestAPI.exe
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\bin\Debug\net6.0\RestAPI.deps.json
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\bin\Debug\net6.0\RestAPI.runtimeconfig.json
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\bin\Debug\net6.0\RestAPI.dll
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\bin\Debug\net6.0\RestAPI.pdb
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\bin\Debug\net6.0\CLassLib.dll
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\bin\Debug\net6.0\CLassLib.pdb
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.csproj.AssemblyReference.cache
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.AssemblyInfoInputs.cache
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.AssemblyInfo.cs
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.csproj.CoreCompileInputs.cache
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\obj\Debug\net6.0\staticwebassets\msbuild.RestAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.RestAPI.props
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RestAPI.props
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RestAPI.props
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\obj\Debug\net6.0\scopedcss\bundle\RestAPI.styles.css
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.csproj.CopyComplete
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.dll
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\obj\Debug\net6.0\refint\RestAPI.dll
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.pdb
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.genruntimeconfig.cache
+C:\Users\Magnus\Documents\GitHub\Programmering_Noter\Programmering Eksamen\API\RestAPI\RestAPI\obj\Debug\net6.0\ref\RestAPI.dll

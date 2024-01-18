@@ -9,15 +9,26 @@ namespace CLassLib
     public class TestClassRepository
     {
         private List<TestClass> tClasses = new List<TestClass>(); //Creates list
-        private int _nextId = 1; //Creates a value, that can later be used to assign Id to objects when added to the list
-        public TestClassRepository() //Adds objects into the list
+        private int _nextId = 0; //Creates a value, that can later be used to assign Id to objects when added to the list
+        public TestClassRepository(bool mockData = true) //Adds objects into the list
         {
-            //tClasses.Add(new TestClass { Id = 1, InStock = 1237, Title = "Test1", Year = 1996 });
-            //tClasses.Add(new TestClass { Id = 2, InStock = 1235, Title = "Test2", Year = 2007 });
-            //tClasses.Add(new TestClass { Id = 3, InStock = 4567, Title = "Test3", Year = 2003 });
-            //tClasses.Add(new TestClass { Id = 4, InStock = 2374, Title = "Test4", Year = 2018 });
-            //tClasses.Add(new TestClass { Id = 5, InStock = 4432, Title = "Test5", Year = 2012 });
-            //tClasses.Add(new TestClass { InStock = 2000 });
+            if (mockData)
+            {
+                Populate();
+            }
+        }
+
+        public void Populate()
+        {
+            tClasses.Clear();
+            tClasses.Add(new TestClass { Id = 1, InStock = 1237, Title = "Test1", Year = 1996 });
+            tClasses.Add(new TestClass { Id = 2, InStock = 1235, Title = "Test2", Year = 2007 });
+            tClasses.Add(new TestClass { Id = 3, InStock = 4567, Title = "Test3", Year = 2003 });
+            tClasses.Add(new TestClass { Id = 4, InStock = 2374, Title = "Test4", Year = 2018 });
+            tClasses.Add(new TestClass { Id = 5, InStock = 4432, Title = "Test5", Year = 2012 });
+            tClasses.Add(new TestClass { Id = 6, InStock = 2000 });
+
+            _nextId = 7;
         }
 
         public IEnumerable<TestClass> Get()

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Magnus\\OneDrive\\Skole\\Zealand\\3. Semester\\Programmering Eksamen\\ClassLib\\CLassLib\\CLassLib\\CLassLib.csproj",
+      "projectUniqueName": "C:\\Users\\Magnus\\Documents\\GitHub\\Programmering_Noter\\Programmering Eksamen\\ClassLib\\CLassLib\\CLassLib\\CLassLib.csproj",
       "projectName": "CLassLib",
-      "projectPath": "C:\\Users\\Magnus\\OneDrive\\Skole\\Zealand\\3. Semester\\Programmering Eksamen\\ClassLib\\CLassLib\\CLassLib\\CLassLib.csproj",
+      "projectPath": "C:\\Users\\Magnus\\Documents\\GitHub\\Programmering_Noter\\Programmering Eksamen\\ClassLib\\CLassLib\\CLassLib\\CLassLib.csproj",
       "packagesPath": "C:\\Users\\Magnus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Magnus\\OneDrive\\Skole\\Zealand\\3. Semester\\Programmering Eksamen\\ClassLib\\CLassLib\\CLassLib\\obj\\",
+      "outputPath": "C:\\Users\\Magnus\\Documents\\GitHub\\Programmering_Noter\\Programmering Eksamen\\ClassLib\\CLassLib\\CLassLib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

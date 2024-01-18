@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "11ZM+pmdA2vtSlMQiw4/G6QK4LfmphXF04LeCByCi0xiUpHWvDN3gzejbjDxbte7Kjukt9mc+jQ+NPJLMjr2tg==",
+  "dgSpecHash": "FW+ryM9ozwnEJ4jLsAANOq7V127Uolx+1IN5SkrdNWhXHJNjpkjWSJkMWpLskb1ByfJ1rEgHUr1J/JUafKucjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Magnus\\OneDrive\\Skole\\Zealand\\3. Semester\\Programmering Eksamen\\ClassLib\\CLassLib\\CLassLibTests\\CLassLibTests.csproj",
+  "projectFilePath": "C:\\Users\\Magnus\\Documents\\GitHub\\Programmering_Noter\\Programmering Eksamen\\ClassLib\\CLassLib\\CLassLibTests\\CLassLibTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Magnus\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Magnus\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

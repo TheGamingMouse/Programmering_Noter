@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sRhVvop0gCM6B787b81sCOmPfY099utlELDE+4/STTj7Mi98nrQvy9u5pQxwTw66hX1KWtzQC8CR6tbtvd77ng==",
+  "dgSpecHash": "qIEiyHpuopwF4ZH/9020Q5pHOkMId5OtQrILQNSX0T99vu7suXVNHrR+GMzHuuM7/SbfEHUq4sv+lKsDUP+Ssg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Magnus\\OneDrive\\Skole\\Zealand\\3. Semester\\Programmering Eksamen\\API\\RestAPI\\RestAPI\\RestAPI.csproj",
+  "projectFilePath": "C:\\Users\\Magnus\\Documents\\GitHub\\Programmering_Noter\\Programmering Eksamen\\API\\RestAPI\\RestAPI\\RestAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Magnus\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Magnus\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
